@@ -1,0 +1,8 @@
+{
+    "structure": [
+        {"numbers_of_neurons": 3},
+        {"numbers_of_neurons": 2, "activation_function": "leaky_relu"},
+        {"numbers_of_neurons": 2, "activation_function": "relu"}
+    ],
+    "weights_initialization": "he"
+}
