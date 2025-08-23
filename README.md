@@ -7,7 +7,7 @@ Esse projetinho foi feito para estudar redes neurais. Foi inspirado no projeto [
 1. **Clone o repositório**
 
     ```git
-    git clone https://github.com/Davi-1903/DIno-IA.git
+    git clone https://github.com/Davi-1903/Dino-IA.git
     ```
 
 2. **Instale todas as dependências**
