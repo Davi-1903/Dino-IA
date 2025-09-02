@@ -2,6 +2,10 @@
 
 Esse projetinho foi feito para estudar redes neurais. Foi inspirado no projeto [`Dinossauro-Google`](https://github.com/JVictorDias/Dinossauro-Google) e adaptado para `Python`.
 
+<p align="center">
+    <img loading="lazy" src="image.png" width="600" />
+</p>
+
 ## Como executar?
 
 1. **Clone o repositório**
