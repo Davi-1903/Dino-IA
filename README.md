@@ -1,9 +1,9 @@
-# Dino IA
+# Dino IA 🦖
 
 Esse projetinho foi feito para estudar redes neurais. Foi inspirado no projeto [`Dinossauro-Google`](https://github.com/JVictorDias/Dinossauro-Google) e adaptado para `Python`.
 
 <p align="center">
-    <img loading="lazy" src="image.png" width="600" />
+    <img loading="lazy" src="aplicacao.gif" width="600" />
 </p>
 
 ## Como executar?
