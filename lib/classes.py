@@ -424,7 +424,7 @@ class Game:
         self.start = False
     
     def init(self):
-        self.dinos = [Dino((randint(WIDTH / 8, WIDTH / 3), 490), change_weights(self.better_weights)) for _ in range(self.amount)]
+        self.dinos = [Dino((randint(WIDTH // 8, WIDTH // 3), 490), change_weights(self.better_weights)) for _ in range(self.amount)]
         self.obstacle_group = ObstacleGroup(self.screen)
         self.floor = FloorGroup(self.screen)
         self.background = Background(self.screen)
